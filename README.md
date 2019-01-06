@@ -5,7 +5,7 @@
 ## Install
 If you don't have python installed, [download](https://www.python.org/downloads/) it, install it and add it to the PATH.
 After that you need *pypresence* in order to run the little script, open the command prompt and do `pip install pypresence`.
-Then you just need to launch `fh4-rpc.py`. It will auto detect Forza Horizon 4 and start the rich presence when you launch the game.
+To quickly download `fh4-rpc.py`, simply right click on this [link](https://raw.githubusercontent.com/agent31750/fh4-discord-rpc/master/fh4-rpc.py) and `Save link as...`. Then you just need to launch `fh4-rpc.py`. It will auto detect Forza Horizon 4 and start the rich presence when you launch the game.
 
 ## Screenshot
 
